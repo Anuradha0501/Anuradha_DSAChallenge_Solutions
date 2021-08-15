@@ -6,10 +6,10 @@ Sheet Link : https://docs.google.com/document/d/1SeLpD4MhUOrPgR_ngETtSb-HsD7VasL
 ## CONTENT
 <b>1. [Maths and Common Programming Operations](Maths%20and%20Common%20Programming%20Operations)</b>
 
-<b>1. [Arrays](Maths%20and%20Common%20Programming%20Operations)</b>
+<b>2. [Arrays](Arrays)</b>
 
-<b>1. [LinkedLists](Maths%20and%20Common%20Programming%20Operations)</b>
+<b>3. [LinkedLists](LinkedLists)</b>
 
-<b>1. [String](Maths%20and%20Common%20Programming%20Operations)</b>
+<b>4. [Strings](Strings)</b>
 
 
